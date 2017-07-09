@@ -8,3 +8,4 @@ Navigate from one intent to another. To modify in AndroidManifest.xml
         android:value=".MainActivity" />
 </activity>
 
+Control + Click on code folded values to jump to declaration.
